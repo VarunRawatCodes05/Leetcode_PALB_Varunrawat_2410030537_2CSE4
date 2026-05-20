@@ -17,6 +17,7 @@ solved leetcode question
 | [0036-valid-sudoku](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ solved leetcode question
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ solved leetcode question
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
