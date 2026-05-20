@@ -35,6 +35,7 @@ solved leetcode question
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
+| [0713-subarray-product-less-than-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1207-unique-number-of-occurrences) |
@@ -95,6 +96,7 @@ solved leetcode question
 | [0239-sliding-window-maximum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0713-subarray-product-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +207,7 @@ solved leetcode question
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
@@ -218,6 +221,7 @@ solved leetcode question
 | [0033-search-in-rotated-sorted-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0069-sqrtx) |
+| [0713-subarray-product-less-than-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0713-subarray-product-less-than-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
