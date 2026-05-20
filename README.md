@@ -92,6 +92,7 @@ solved leetcode question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ solved leetcode question
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
