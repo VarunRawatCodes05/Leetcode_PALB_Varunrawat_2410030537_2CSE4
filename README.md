@@ -11,6 +11,7 @@ solved leetcode question
 | [0014-longest-common-prefix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ solved leetcode question
 | [0011-container-with-most-water](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
