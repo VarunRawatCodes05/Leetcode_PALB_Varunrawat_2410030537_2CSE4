@@ -113,6 +113,7 @@ solved leetcode question
 | [0384-shuffle-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0384-shuffle-an-array) |
 | [0509-fibonacci-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0728-self-dividing-numbers) |
+| [0878-nth-magical-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0878-nth-magical-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ solved leetcode question
 | [0035-search-insert-position](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0713-subarray-product-less-than-k) |
+| [0878-nth-magical-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0878-nth-magical-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
