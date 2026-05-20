@@ -107,6 +107,7 @@ solved leetcode question
 | [0050-powx-n](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0384-shuffle-an-array) |
 ## Two Pointers
@@ -215,6 +216,7 @@ solved leetcode question
 | [0043-multiply-strings](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,4 +273,8 @@ solved leetcode question
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
