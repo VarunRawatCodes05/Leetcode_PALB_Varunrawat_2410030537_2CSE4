@@ -15,6 +15,7 @@ solved leetcode question
 | [0036-valid-sudoku](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ solved leetcode question
 | [0013-roman-to-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0049-group-anagrams) |
+| [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ solved leetcode question
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0021-merge-two-sorted-lists) |
+| [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -91,4 +94,12 @@ solved leetcode question
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
