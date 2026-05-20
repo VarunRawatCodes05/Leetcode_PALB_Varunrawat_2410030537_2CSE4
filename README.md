@@ -19,6 +19,7 @@ solved leetcode question
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0136-single-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0384-shuffle-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0560-subarray-sum-equals-k) |
@@ -192,4 +193,8 @@ solved leetcode question
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0895-maximum-frequency-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
