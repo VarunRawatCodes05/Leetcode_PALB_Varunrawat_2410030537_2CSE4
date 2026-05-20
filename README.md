@@ -13,11 +13,13 @@ solved leetcode question
 | ------- |
 | [0001-two-sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +29,7 @@ solved leetcode question
 | ------- |
 | [0007-reverse-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
