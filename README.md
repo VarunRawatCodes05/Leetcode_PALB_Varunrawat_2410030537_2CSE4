@@ -21,4 +21,8 @@ solved leetcode question
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
