@@ -58,6 +58,7 @@ solved leetcode question
 | [0208-implement-trie-prefix-tree](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1021-remove-outermost-parentheses](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ solved leetcode question
 | [0155-min-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0155-min-stack) |
 | [0895-maximum-frequency-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
