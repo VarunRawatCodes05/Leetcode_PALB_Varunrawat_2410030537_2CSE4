@@ -40,6 +40,7 @@ solved leetcode question
 | [0014-longest-common-prefix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
@@ -57,6 +58,7 @@ solved leetcode question
 | [0007-reverse-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ solved leetcode question
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
