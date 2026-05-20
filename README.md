@@ -9,6 +9,7 @@ solved leetcode question
 | [0001-two-sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ solved leetcode question
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +46,8 @@ solved leetcode question
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
