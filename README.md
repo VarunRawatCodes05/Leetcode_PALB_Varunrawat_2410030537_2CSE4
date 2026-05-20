@@ -52,6 +52,7 @@ solved leetcode question
 | [0125-valid-palindrome](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@ solved leetcode question
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ solved leetcode question
 | [0146-lru-cache](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -155,4 +158,8 @@ solved leetcode question
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
