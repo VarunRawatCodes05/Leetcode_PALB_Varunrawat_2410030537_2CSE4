@@ -288,4 +288,8 @@ solved leetcode question
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
