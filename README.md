@@ -22,6 +22,7 @@ solved leetcode question
 | [0054-spiral-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ solved leetcode question
 | [0013-roman-to-integer](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0146-lru-cache) |
@@ -204,6 +206,7 @@ solved leetcode question
 | [0036-valid-sudoku](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0766-toeplitz-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1582-special-positions-in-a-binary-matrix) |
