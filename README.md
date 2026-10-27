@@ -39,6 +39,7 @@ solved leetcode question
 | [0384-shuffle-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0384-shuffle-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0622-design-circular-queue) |
@@ -75,6 +76,7 @@ solved leetcode question
 | [0424-longest-repeating-character-replacement](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0706-design-hashmap) |
 | [0859-buddy-strings](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0859-buddy-strings) |
@@ -195,6 +197,7 @@ solved leetcode question
 | [0155-min-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/1021-remove-outermost-parentheses) |
@@ -333,6 +336,7 @@ solved leetcode question
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/VarunRawatCodes05/Leetcode_PALB_Varunrawat_2410030537_2CSE4/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
